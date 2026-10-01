@@ -41,6 +41,7 @@ window_title = "Xena: Warrior Princess Recompiled"
 memcard_dir = "saves"
 bios_hle = false
 openbios = false
+overlay_cache = true
 
 [video]
 renderer = "opengl"
