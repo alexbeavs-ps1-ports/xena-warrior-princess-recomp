@@ -62,11 +62,10 @@ OpenBIOS is not supported. Retail BIOS dumps are not redistributed.
 ## License
 
 Project-owned source, scripts, configuration, and documentation use
-`GPL-3.0-only`. See `LICENSE`.
+`PolyForm Noncommercial 1.0.0`. See `LICENSE`.
 
 This license does not cover Xena: Warrior Princess content, generated retail
-code, artwork, names, or trademarks. PSXRecomp remains under PolyForm
-Noncommercial 1.0.0. `recomp-ui` remains under MIT. See
+code, artwork, names, or trademarks. PSXRecomp remains under the license in `psxrecomp/LICENSE`. `recomp-ui` remains under MIT. See
 `THIRD_PARTY_NOTICES.md` and each submodule license.
 
 Default app icon: `assets/psxrecomp.ico` (and `.png` / `.svg`) — RetComM-themed controller mark from `psxrecomp/assets/`. Windows builds embed it via `APP_ICON`.
