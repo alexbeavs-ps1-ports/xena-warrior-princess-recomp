@@ -32,7 +32,7 @@ current_package_platform = "Windows x64"
 current_package_runtime_commit = "45bbc69d33a83a847c7f24bf3ace393d45cf9353"
 current_package_ui_commit = "f867d99cca0346ebabdd707a96fe43259a24fb70"
 next_workbench_source = "40ce47896026be52bcaae7de03b69766e0bd03e4"
-next_title_version = "0.1.2"
+next_title_version = "0.1.3"
 manual_test = "pending-new-exact-package"
 linux_qualification = "pending-exact-package-and-native-test"
 macos_qualification = "pending-exact-package-and-native-test"
@@ -51,11 +51,11 @@ traces = "out/traces"
 packages = "dist"
 
 [release]
-version = "0.1.2"
+version = "0.1.3"
 platform = "multi-platform"
 supported_platforms = ["windows-x64", "linux-x64", "macos-arm64", "macos-x64"]
 graduation_state = "bootstrap_verified"
-public_package_status = "v0.1.2_three_platform_candidate"
+public_package_status = "v0.1.3_pin_i_0.1.18_update_candidate"
 
 [bios]
 required = true
